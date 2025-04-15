@@ -42,6 +42,12 @@ O código foi organizado em cinco arquivos principais:
 4. **AparelhoTelefonico.java**: Interface que define os métodos relacionados ao aparelho telefônico.
 5. **NavegadorInternet.java**: Interface que define os métodos relacionados ao navegador de internet.
 
+## 🧩 Diagrama de Classes UML
+
+Abaixo está o diagrama de classes que representa a estrutura do projeto:
+
+![Diagrama de Classes](diagrama-classes.png)
+
 ## 🚀 Como Rodar o Projeto
 
 Para rodar o projeto, siga os passos abaixo:
