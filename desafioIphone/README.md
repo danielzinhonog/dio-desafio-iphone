@@ -46,7 +46,8 @@ O código foi organizado em cinco arquivos principais:
 
 Abaixo está o diagrama de classes que representa a estrutura do projeto:
 
-![Diagrama de Classes](diagrama-classes.png)
+![Diagrama de Classes](![Diagrama de Classes](src/diagrama-classes.jpg)
+)
 
 ## 🚀 Como Rodar o Projeto
 
